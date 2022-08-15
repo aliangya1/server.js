@@ -1,0 +1,1 @@
+console.log('俺叫2.js')
